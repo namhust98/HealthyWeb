@@ -1,0 +1,7 @@
+1589536823 abcd1234 login success
+
+('1589536823' is timestamp
+'abcd1234' is id of user
+'login' is action
+'success' is status)
+

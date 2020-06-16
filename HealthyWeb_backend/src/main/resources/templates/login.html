@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Log In</title>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Photo Gallery HTML Template"/>
+    <meta name="keywords" content="endGam,gGaming, magazine, html"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"/>
+    <link href="/css/login.css" rel="stylesheet"/>
+    <script src="/js/jquery-3.2.1.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div class="wrapper fadeInDown">
+    <div id="formContent">
+        <!-- Tabs Titles -->
+
+        <!-- Icon -->
+        <div class="fadeIn first">
+            <img src="/img/icons/user.png" id="icon" alt="User Icon"/>
+        </div>
+
+        <!-- Login Form -->
+        <div>
+            <input type="text" id="login" class="fadeIn second" name="login" placeholder="login"/>
+            <input type="text" id="password" class="fadeIn third" name="login" placeholder="password"/>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <select id="select-role" class="browser-default custom-select">
+                            <option value="user">User</option>
+                            <option value="counselor">Counselor</option>
+                            <option value="admin">Admin</option>
+                        </select>
+                    </div>
+                    <div class="col-sm">
+                        <button class="submit-form-login">Log In</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Remind Passowrd -->
+        <div id="formFooter">
+            <a class="underlineHover" href="#">Forgot Password?</a>
+        </div>
+
+    </div>
+</div>
+<script src="/js/login/login.js"></script>
+</body>
+</html>

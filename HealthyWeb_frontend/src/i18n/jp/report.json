@@ -1,0 +1,27 @@
+{
+    "report": {
+        "Status order is finished": "完了",
+        "Status order is started": "開始",
+        "Get data error": "データの取得に失敗しました。",
+        "Pick a date": "データを取得する。",
+        "Room number": "部屋番号",
+        "Date clean": "データを消去する。",
+        "Reports": "報告",
+        "Cleaner start time": "作業開始時間",
+        "Cleaner end time": "作業終了時間",
+        "Cleaner name": "クリーナー氏名",
+        "Time working": "実作業時間",
+        "Status": "ステータス",
+        "Do not have any video": "動画はありません。",
+        "Doing": "作業中",
+        "Done": "完了",
+        "After": "後",
+        "Before": "前",
+        "Cleaner": "クリーナー",
+        "Checklist": "チェックリスト",
+        "Video": "動画",
+        "Do not have any cleaner": "クリーナーがいません。",
+        "Select": "選択",
+        "Do not have any image": "画像はありません。"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "common": {
+        "Confirm": "確認する",
+        "Yes": "はい",
+        "Cancel": "キャンセル",
+        "Edit": "編集",
+        "Success": "成功しました",
+        "Delete": "削除",
+        "Create": "作成",
+        "Reset": "リセット",
+        "Close": "閉じる",
+        "Name": "名前",
+        "Note": "詳細",
+        "Action": "操作",
+        "Save": "保存",
+        "Edit / Detail": "編集 / 詳細",
+        "OK": "OK",
+        "Error": "エラー",
+        "Warning": "警告",
+        "Change": "変更"
+    },
+    "lang": {
+        "English": "英語",
+        "Japan": "日本語"
+    }
+}

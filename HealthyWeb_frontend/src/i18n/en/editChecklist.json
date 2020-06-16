@@ -1,0 +1,24 @@
+{
+    "editChecklist": {
+        "Edit Checklist": "Edit Checklist",
+        "Add Checklist": "Add Checklist",
+        "Checklist name": "Checklist name",
+        "Category name": "Category name",
+        "Tasks": "Task",
+        "Add": "Add",
+        "Update": "Update",
+        "New Category": "New Category",
+        "Category checklist name": "Category checklist name",
+        "Item checklist name": "Item checklist name",
+        "Checklist name must not empty": "Checklist name must not empty",
+        "Category name must not empty": "Category name must not empty",
+        "Delete this category. Continue?": "Delete this category. Continue?",
+        "Delete canceled": "Delete canceled",
+        "Invalid form": "Invalid form",
+        "Update checklist success": "Update checklist success",
+        "Update checklist failure": "Update checklist failure",
+        "Add checklist success": "Add checklist success",
+        "Add checklist failure": "Add checklist failure",
+        "Item name must not empty": "Item name must not empty"
+    }
+}

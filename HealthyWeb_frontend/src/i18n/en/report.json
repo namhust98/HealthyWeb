@@ -1,0 +1,27 @@
+{
+    "report": {
+        "Status order is finished": "Status order is finished",
+        "Status order is started": "Status order is started",
+        "Get data error": "Get data error",
+        "Pick a date": "Pick a date",
+        "Room number": "Room number",
+        "Date clean": "Date clean",
+        "Reports": "Reports",
+        "Cleaner start time": "Cleaner start time",
+        "Cleaner end time": "Cleaner end time",
+        "Cleaner name": "Cleaner name",
+        "Time working": "Time working",
+        "Status": "Status",
+        "Do not have any video": "Do not have any video",
+        "Doing": "Doing",
+        "Done": "Done",
+        "After": "After",
+        "Before": "Before",
+        "Cleaner": "Cleaner",
+        "Checklist": "Checklist",
+        "Video": "Video",
+        "Do not have any cleaner": "Do not have any cleaner",
+        "Select": "Select",
+        "Do not have any image": "Do not have any image"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "register": {
+        "First Name": "First Name",
+        "Last Name": "Last Name",
+        "example@gmail.com": "example@gmail.com",
+        "Password": "Password",
+        "Confirm your password": "Confirm your password",
+        "I agree with terms of services": "I agree with terms of services",
+        "Register": "Register",
+        "First name must be not null": "First name must be not null",
+        "Last name must be not null": "Last name must be not null",
+        "Email must be not null": "Email must be not null",
+        "Password must be not null": "Password must be not null",
+        "Confirm password must be not null": "Confirm password must be not null",
+        "You must agree with terms of service": "You must agree with terms of service",
+        "Confirm password not equal with password": "Confirm password not equal with password",
+        "Register error": "Register error"
+    }
+}

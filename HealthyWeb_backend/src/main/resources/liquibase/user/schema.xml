@@ -1,0 +1,47 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+    <changeSet id="create_table_user" author="vylv">
+        <createTable tableName="user">
+            <column name="id" type="int" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="type" type="varchar(100)"/>
+            <column name="email" type="varchar(100)"/>
+            <column name="first_name" type="varchar(60)">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="last_name" type="varchar(60)">
+                <constraints nullable="true"/>
+            </column>
+
+            <column name="username" type="varchar(100)">
+                <constraints unique="true"/>
+            </column>
+
+            <column name="password" type="varchar(100)"/>
+
+            <column name="phone_number" type="varchar(45)"/>
+
+            <column name="access_token" type="text"/>
+
+            <column name="status" type="int"/>
+
+            <column name="last_active_time" type="TIMESTAMP"/>
+
+            <column name="confirm_code" type="varchar(6)"/>
+
+            <column name="enable" type="boolean" defaultValue="false"/>
+
+        </createTable>
+
+        <modifySql dbms="mysql">
+            <append
+                    value="ENGINE=INNODB CHARSET=utf8mb4 COLLATE utf8mb4_unicode_520_ci"/>
+        </modifySql>
+    </changeSet>
+
+</databaseChangeLog>

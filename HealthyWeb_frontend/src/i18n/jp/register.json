@@ -1,0 +1,19 @@
+{
+    "register": {
+        "First Name": "姓名",
+        "Last Name": "名前",
+        "example@gmail.com": "example@gmail.com",
+        "Password": "パスワード",
+        "Confirm your password": "パスワード確認",
+        "I agree with terms of services": "利用規約に同意します。",
+        "Register": "登録",
+        "First name must be not null": "姓名を入力してください。",
+        "Last name must be not null": "名前を入力してください。",
+        "Email must be not null": "Emailを入力してください。",
+        "Password must be not null": "パスワードを入力してください。",
+        "Confirm password must be not null": "確認パスワードを入力してください。",
+        "You must agree with terms of service": "利用規約に同意する必要があります。",
+        "Confirm password not equal with password": "新しいパスワードが確認と一致していません。",
+        "Register error": "登録エラーです。"
+    }
+}

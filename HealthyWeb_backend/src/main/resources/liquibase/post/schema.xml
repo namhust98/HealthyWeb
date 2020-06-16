@@ -1,0 +1,28 @@
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd">
+
+    <changeSet id="create_table_post" author="vylv">
+        <createTable tableName="post">
+            <column name="id" type="int" autoIncrement="true">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="user_id" type="int"/>
+
+            <column name="content" type="text"/>
+        </createTable>
+
+        <modifySql dbms="mysql">
+            <append
+                    value="ENGINE=INNODB CHARSET=utf8mb4 COLLATE utf8mb4_unicode_520_ci"/>
+        </modifySql>
+    </changeSet>
+
+    <changeSet id="add_column_subject" author="vylv">
+        <addColumn tableName="post">
+            <column name="subject" type="text"></column>
+        </addColumn>
+    </changeSet>
+
+</databaseChangeLog>

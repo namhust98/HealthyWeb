@@ -1,0 +1,12 @@
+{
+    "login": {
+        "Email": "Email",
+        "Password": "Password",
+        "Forgot password?": "Forgot password?",
+        "Login": "Login",
+        "example@gmail.com": "example@gmail.com",
+        "Remember me": "Remember me",
+        "Email must be not null": "Email must be not null",
+        "Password name must be not null": "Password name must be not null"
+    }
+}

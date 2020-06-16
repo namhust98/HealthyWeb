@@ -1,0 +1,16 @@
+{
+    "SetupFee": {
+        "Setup fee": "料金設定",
+        "Tax setting": "税金設定",
+        "Tax name": "税金名",
+        "Value": "値",
+        "Set up the plan": "プラン設定",
+        "Plan": "プラン",
+        "Fee monthly": "月額料金",
+        "Fee room": "一部屋ごと料金",
+        "Fee room management": "管理料金",
+        "Basic": "基本",
+        "Pro": "プロ",
+        "Apply": "承認"
+    }
+}

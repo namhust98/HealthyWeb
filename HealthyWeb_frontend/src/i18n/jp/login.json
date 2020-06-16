@@ -1,0 +1,12 @@
+{
+    "login": {
+        "Email": "メール",
+        "Password": "パスワード",
+        "Forgot password?": "パスワードを忘れた方はこちら",
+        "Login": "ログイン",
+        "example@gmail.com": "example@gmail.com",
+        "Remember me": "ログインしたままにする。",
+        "Email must be not null": "この項目は必須です。",
+        "Password name must be not null": "この項目は必須です。"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "common": {
+        "Confirm": "Confirm",
+        "Yes": "Yes",
+        "Cancel": "Cancel",
+        "Edit": "Edit",
+        "Success": "Success",
+        "Delete": "Delete",
+        "Create": "Create",
+        "Reset": "Reset",
+        "Close": "Close",
+        "Name": "Name",
+        "Note": "Note",
+        "Action": "Action",
+        "Save": "Save",
+        "Edit / Detail": "Edit / Detail",
+        "OK": "OK",
+        "Error": "Error",
+        "Warning": "Warning",
+        "Change": "Change"
+    },
+    "lang": {
+        "English": "English",
+        "Japan": "Japan"
+    }
+}

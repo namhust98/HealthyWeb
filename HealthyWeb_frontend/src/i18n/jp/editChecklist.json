@@ -1,0 +1,24 @@
+{
+    "editChecklist": {
+        "Edit Checklist": "チェックリスト編集",
+        "Add Checklist": "チェックリストを追加",
+        "Checklist name": "チェックリスト名",
+        "Category name": "タイトル",
+        "Tasks": "タスク",
+        "Add": "追加",
+        "Update": "更新",
+        "New Category": "＋カテゴリ",
+        "Category checklist name": "タイトル",
+        "Item checklist name": "チェックリスト名",
+        "Checklist name must not empty": "この項目は必須です。",
+        "Category name must not empty": "この項目は必須です。",
+        "Delete this category. Continue?": "カテゴリーを削除します。よろしいですか？",
+        "Delete canceled": "削除はキャンセルされました。",
+        "Invalid form": "無効な入力です。",
+        "Update checklist success": "チェックリストを更新しました。",
+        "Update checklist failure": "チェックリストの更新に失敗しました。再度お試しください。",
+        "Add checklist success": "チェックリストを追加しました。",
+        "Add checklist failure": "チェックリストの追加が失敗しました。再度お試しください。",
+        "Item name must not empty": "この項目は必須です。"
+    }
+}
